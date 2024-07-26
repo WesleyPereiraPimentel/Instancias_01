@@ -1,4 +1,4 @@
-Name				SD-CSS10
+Name				GPS
 Number_of_Customers		60
 Number_of_Items			1840
 Number_of_ItemTypes		29
