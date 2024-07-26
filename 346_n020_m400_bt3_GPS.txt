@@ -1,4 +1,4 @@
-Name				346_n020_m400_bt3
+Name				GPS
 Number_of_Customers		20
 Number_of_Items			400
 Number_of_ItemTypes		3
