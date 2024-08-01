@@ -28,7 +28,6 @@ i		x		y		Demand		ReadyTime	DueDate		ServiceTime	DemandedMass	DemandedVolume
 8		-40.268355309963226		-20.324775653499064		20		677		921		10		1630.28		4740
 9		-40.35471439361573		-20.37615036972649		19		0		965		10		1895.04		5040
 
-
 ITEMS
 Type		Length		Width		Height		Mass		Fragility	LoadBearingStrength
 Bt1		9		3		5		23.56		0		1.7642530
