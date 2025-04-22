@@ -1,4 +1,4 @@
-OPEN_ROUTE				1
+OPEN_ROUTE				0
 Number_of_Customers		60
 Number_of_Items			1840
 Number_of_ItemTypes		29
