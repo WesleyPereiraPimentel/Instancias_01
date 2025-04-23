@@ -7,7 +7,7 @@ TimeWindows			0
 
 VEHICLE
 Mass_Capacity			23500
-CargoSpace_Length		1000
+CargoSpace_Length		2000
 CargoSpace_Width		247
 CargoSpace_Height		268
 Wheelbase			500
